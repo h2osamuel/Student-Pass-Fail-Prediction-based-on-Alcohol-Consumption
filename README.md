@@ -45,10 +45,8 @@ RandomForest Accuracy: 69.6% AUC: 0.642
 Test:
 Classification Report — Random Forest (Test Set):
               precision    recall  f1-score   support
-
     Fail (0)       0.55      0.42      0.48        26
     Pass (1)       0.75      0.83      0.79        53
-
     accuracy                           0.70        79
    macro avg       0.65      0.63      0.63        79
 weighted avg       0.68      0.70      0.68        79
