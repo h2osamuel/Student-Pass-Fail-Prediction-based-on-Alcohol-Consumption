@@ -1,4 +1,4 @@
-# Student-Pass-Fail-Prediction-based-on-Alcohol-Consumption
+# Student Pass/Fail Prediction based on Alcohol Consumption
 
 ## Project Overview
 
